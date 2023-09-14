@@ -1,0 +1,14 @@
+C:\C#\Cronometro\MeuCronometro\bin\Debug\net7.0\MeuCronometro.exe
+C:\C#\Cronometro\MeuCronometro\bin\Debug\net7.0\MeuCronometro.deps.json
+C:\C#\Cronometro\MeuCronometro\bin\Debug\net7.0\MeuCronometro.runtimeconfig.json
+C:\C#\Cronometro\MeuCronometro\bin\Debug\net7.0\MeuCronometro.dll
+C:\C#\Cronometro\MeuCronometro\bin\Debug\net7.0\MeuCronometro.pdb
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\MeuCronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\MeuCronometro.AssemblyInfoInputs.cache
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\MeuCronometro.AssemblyInfo.cs
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\MeuCronometro.csproj.CoreCompileInputs.cache
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\MeuCronometro.dll
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\refint\MeuCronometro.dll
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\MeuCronometro.pdb
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\MeuCronometro.genruntimeconfig.cache
+C:\C#\Cronometro\MeuCronometro\obj\Debug\net7.0\ref\MeuCronometro.dll
